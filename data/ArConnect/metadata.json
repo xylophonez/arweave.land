@@ -5,7 +5,7 @@
     "github": "th8ta/ArConnect",
     "description": "Secure wallet management for Arweave",
     "tokens": [],
-    "category": "File storage",
+    "category": "Identity",
     "developers": [
         {
             "name": "Tate Berenbaum",
