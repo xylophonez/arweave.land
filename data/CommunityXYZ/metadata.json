@@ -1,0 +1,16 @@
+{
+    "name": "CommunityXYZ",
+    "url": "http://community.xyz/",
+    "logo": "",
+    "github": "CommunityXYZ",
+    "description": "A fully decentralized website and smartweave contract built on top of Arweave.",
+    "tokens": ["XYZ"],
+    "category": "PSC",
+    "developers": [
+        {
+            "name": "Cedrik Boudreau",
+            "github": "cedriking",
+            "twitter": "cedriking"
+        }
+    ]
+}

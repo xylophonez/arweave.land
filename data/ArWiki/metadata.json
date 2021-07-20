@@ -1,0 +1,26 @@
+{
+    "name": "ArWiki",
+    "url": "https://arwiki.wiki",
+    "logo": "",
+    "github": "luckyr13/arwiki",
+    "description": "The decentralized wiki for Arweave documentation",
+    "tokens": ["WIKI"],
+    "category": "Publishing",
+    "developers": [
+        {
+            "name": "luckyr13",            
+            "github": "luckyr13",
+            "twitter": ""
+        },
+        {
+            "name": "Jean-François",            
+            "github": "jfbeats",
+            "twitter": "JF_Beats"
+        },
+        {
+            "name": "Sam Williams",            
+            "github": "samcamwilliams",
+            "twitter": "samecwilliams"
+        }
+    ]
+}

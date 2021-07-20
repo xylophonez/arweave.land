@@ -1,0 +1,16 @@
+{
+    "name": "Evermore",
+    "url": "https://www.evermoredata.store",
+    "logo": "",
+    "github": "MikeHibbert/evermore",
+    "description": "Evermore connects you with cutting edge data storage solutions that allow you to store your data safely and securely online",
+    "tokens": ["EDST"],
+    "category": "File storage",
+    "developers": [
+        {
+            "name": "Mike Hibbert",
+            "github": "MikeHibbert",
+            "twitter": "mickeysofine"
+        }
+    ]
+}

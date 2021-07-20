@@ -1,0 +1,21 @@
+{
+    "name": "ArVerify",
+    "url": "https://arverify.org/",
+    "logo": "",
+    "github": "arverify",
+    "description": "Trusted verification for the Arweave network",
+    "tokens": [],
+    "category": "Identity",
+    "developers": [
+        {
+            "name": "Fabian Riewe",
+            "github": "fabianriewe",
+            "twitter": "RieweFabian"
+        },
+        {
+            "name": "John Letey",
+            "github": "johnletey",
+            "twitter": "johnletey"
+        }
+    ]
+}
