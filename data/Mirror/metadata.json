@@ -1,0 +1,16 @@
+{
+    "name": "Mirror",
+    "url": "https://mirror.xyz/",
+    "logo": "",
+    "github": "mirror-xyz",
+    "description": "Through a decentralized, user-owned, crypto-based network, Mirror’s publishing platform revolutionizes the way we express, share and monetize our thoughts",
+    "tokens": ["WRITE"],
+    "category": "Publishing",
+    "developers": [
+        {
+            "name": "Tom Meagher",
+            "github": "tmm",
+            "twitter": "awkweb"
+        }
+    ]
+}

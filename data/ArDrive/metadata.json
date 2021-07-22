@@ -1,0 +1,16 @@
+{
+    "name": "ArDrive",
+    "url": "http://ardrive.io/",
+    "logo": "",
+    "github": "ardriveapp",
+    "description": "A private, secure, decentralized, censorship-resistant and permanent data storage solution, for everyone.",
+    "tokens": ["ARDRIVE"],
+    "category": "File storage",
+    "developers": [
+        {
+            "name": "Phil Mataras",
+            "github": "vilenarios",
+            "twitter": "vilenarios"
+        }
+    ]
+}

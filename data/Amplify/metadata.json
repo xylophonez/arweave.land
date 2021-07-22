@@ -1,0 +1,16 @@
+{
+    "name": "Amplify",
+    "url": "https://amplify.host",
+    "logo": "",
+    "github": "AmplifyEconomy",
+    "description": "The distributed economy for bandwidth",
+    "tokens": [],
+    "category": "Gateway",
+    "developers": [
+        {
+            "name": "The Lone Ronin",
+            "github": "TheLoneRonin",
+            "twitter": ""
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "KYVE",
+    "url": "https://kyve.network/",
+    "logo": "",
+    "github": "KYVENetwork",
+    "description": "A protocol for verified data streams",
+    "tokens": ["KYVE"],
+    "category": "Developer tools",
+    "developers": [
+        {
+            "name": "Fabian Riewe",
+            "github": "fabianriewe",
+            "twitter": "RieweFabian"
+        },
+        {
+            "name": "John Letey",
+            "github": "johnletey",
+            "twitter": "johnletey"
+        },
+        {
+            "name": "Emanuel Ferm",
+            "github": "eferm",
+            "twitter": "eeferm"
+        }
+    ]
+}

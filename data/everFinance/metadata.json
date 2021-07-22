@@ -1,0 +1,16 @@
+{
+    "name": "everFinance",
+    "url": "https://ever.finance/",
+    "logo": "",
+    "github": "everFinance",
+    "description": "Decentralized financial service for everyone, everywhere",
+    "tokens": [""],
+    "category": "DeFi",
+    "developers": [
+        {
+            "name": "outprog",
+            "github": "outprog",
+            "twitter": "outprog_eth"
+        }
+    ]
+}
