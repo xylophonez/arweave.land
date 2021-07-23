@@ -22,6 +22,7 @@ KYVE */
 // Categories
 
 /* PSC
+Gateway
 Exchange
 Social
 Publishing

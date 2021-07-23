@@ -1,0 +1,16 @@
+{
+    "name": "Permabot",
+    "url": "https://permabot.xyz/",
+    "logo": "",
+    "github": "",
+    "description": "Archives selected content from the web/social media and store it on the Permaweb",
+    "tokens": ["PBT"],
+    "category": "Social media",
+    "developers": [
+        {
+            "name": "",
+            "github": "",
+            "twitter": ""
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pianity",
+    "url": "https://pianity.com/",
+    "logo": "",
+    "github": "",
+    "description": "Collect unique artworks from your favorite artists",
+    "tokens": [],
+    "category": "NFT",
+    "developers": [
+        {
+            "name": "Lancelot Owczarczak",
+            "github": "lowczarc",
+            "twitter": ""
+        }
+    ]
+}
