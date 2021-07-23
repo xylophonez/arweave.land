@@ -2,15 +2,15 @@
     "name": "Nest.land",
     "url": "http://nest.land/",
     "logo": "",
-    "github": "",
-    "description": "",
-    "tokens": [""],
-    "category": "",
+    "github": "nestdotland",
+    "description": "A module registry for Deno, on the blockweave. Publish Deno modules to the permaweb, where they can never be deleted",
+    "tokens": [],
+    "category": "Developer tools",
     "developers": [
         {
-            "name": "",
-            "github": "",
-            "twitter": ""
+            "name": "Tate Berenbaum",
+            "github": "t8",
+            "twitter": "TateBerenbaum"
         }
     ]
 }
