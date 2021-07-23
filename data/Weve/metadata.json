@@ -1,0 +1,16 @@
+{
+    "name": "Weve",
+    "url": "https://biuq26pcmjwrr22godqmwehtd5mof25encuxi74oi3qh3rwi46wa.arweave.net/CikNeeJibRjrRnDgyxDzH1ji66RoqXR_jkbgfcbI56w/index.html#/",
+    "logo": "",
+    "github": "anish-agnihotri/weve",
+    "description": "Weavemail client implementation—private, decentralized and open source mail, built on Arweave",
+    "tokens": [],
+    "category": "Email",
+    "developers": [
+        {
+            "name": "Anish Agnihotri",
+            "github": "Anish-Agnihotri",
+            "twitter": "_anishagnihotri"
+        }
+    ]
+}

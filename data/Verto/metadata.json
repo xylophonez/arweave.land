@@ -1,0 +1,26 @@
+{
+    "name": "Verto",
+    "url": "https://verto.exchange/",
+    "logo": "",
+    "github": "useverto/verto",
+    "description": "Token exchange app for Arweave Profit Sharing Tokens",
+    "tokens": ["VRT"],
+    "category": "Exchange",
+    "developers": [
+        {
+            "name": "Tate Berenbaum",
+            "github": "t8",
+            "twitter": "TateBerenbaum"
+        },
+        {
+            "name": "Marton Lederer",
+            "github": "martonlederer",
+            "twitter": "martonlederer"
+        },
+        {
+            "name": "John Letey",
+            "github": "johnletey",
+            "twitter": "johnletey"
+        }
+    ]
+}
