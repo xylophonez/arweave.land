@@ -1,0 +1,21 @@
+{
+    "name": "ViewBlock",
+    "url": "https://viewblock.io",
+    "logo": "",
+    "github": "https://github.com/Ashlar",
+    "description": "An Arweave block explorer",
+    "tokens": [""],
+    "category": "Explorer",
+    "developers": [
+        {
+            "name": "Tommy Tran",
+            "github": "",
+            "twitter": ""
+        },
+        {
+            "name": "Balthazar Gronon",
+            "github": "balthazar",
+            "twitter": ""
+        }
+    ]
+}
