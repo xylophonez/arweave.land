@@ -1,0 +1,16 @@
+{
+    "name": "Pocket Network",
+    "url": "https://www.pokt.network/",
+    "logo": "",
+    "github": "https://github.com/pokt-network",
+    "description": "Decentralized RPC protocol to access any blockchain.",
+    "tokens": ["POKT"],
+    "category": "Gateway",
+    "developers": [
+        {
+            "name": "Michael O'Rourke",
+            "github": "mokn",
+            "twitter": "o_rourke"
+        }
+    ]
+}

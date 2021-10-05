@@ -1,0 +1,16 @@
+{
+    "name": "Glass Protocol",
+    "url": "https://glass.xyz",
+    "logo": "",
+    "github": "",
+    "description": "Video owned by the people, not the platform",
+    "tokens": [""],
+    "category": "entertainment",
+    "developers": [
+        {
+            "name": "Sam Sends",
+            "github": "",
+            "twitter": "sam_sends"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AFTR Market",
+    "url": "https://aftr.market",
+    "logo": "",
+    "github": "https://github.com/arcj0/aftr",
+    "description": "Treasury management on Arweave",
+    "tokens": ["AFTR"],
+    "category": "PSC",
+    "developers": [
+        {
+            "name": "Joe Berenbaum",
+            "github": "arcj0",
+            "twitter": "joeberenbaum"
+        }
+    ]
+}

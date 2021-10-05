@@ -1,0 +1,26 @@
+{
+    "name": "Arweave News",
+    "url": "https://arweave.news",
+    "logo": "",
+    "github": "https://github.com/Arweave-News",
+    "description": "A community driven news platform",
+    "tokens": ["ARN"],
+    "category": "PSC",
+    "developers": [
+        {
+            "name": "pepe007",
+            "github": "charmful0x",
+            "twitter": ""
+        },
+        {
+            "name": "xylophonez",
+            "github": "xylophonez",
+            "twitter": "xylophonezy"
+        },
+        {
+            "name": "Abdalah",
+            "github": "",
+            "twitter": "Abdalahghrayeb"
+        }
+    ]
+}
