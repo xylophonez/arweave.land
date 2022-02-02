@@ -1,0 +1,21 @@
+{
+    "name": "permacast",
+    "url": "https://permacast.net/",
+    "logo": "",
+    "github": "Parallel-news/permacast",
+    "description": "Pay once, store forever podcast hosting on Arweave",
+    "tokens": [],
+    "category": "Audio",
+    "developers": [
+        {
+            "name": "xylophone",
+            "github": "xylophonez",
+            "twitter": "xylophonezy"
+        },
+        {
+            "name": "Darwin",
+            "github": "decentldotland",
+            "twitter": "decentdotland"
+        }
+    ]
+}
